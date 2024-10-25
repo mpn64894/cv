@@ -31,7 +31,6 @@ footer {
     padding-bottom: 10px;
     display: flex;
     justify-content: center;
-    
 }
 
 
@@ -216,7 +215,7 @@ button:hover {
 }
 
 h1{
-    font-family: "Oswald", sans-serif;
+font-family: "Oswald", sans-serif;
   font-optical-sizing: auto;
   font-weight: 250;
   font-style: oblique;
